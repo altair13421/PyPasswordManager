@@ -4,9 +4,8 @@ This PyPasswordManager was Created By Yeager
 Becuase He was Bored
 You May Not Distribute the Binaries
 But you May Keep It For Yourself
-# Discord: discord.gg/Z6wrbYs
 # Telegram: @YeagerToaster
-# Discord ID: Yeager#1902
+# Discord ID: Kohaku#9220
 
 CHANGELOG:
 ================
